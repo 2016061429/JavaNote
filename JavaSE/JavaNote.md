@@ -904,7 +904,7 @@ public class Man implements Hunter {
 
 #### 类和接口之间的关系 
 
-![image-20221204164227026](picture\image-20221204164227026.png)
+![image-20221204164227026](https://github.com/2016061429/JavaNote/blob/main/JavaSE/picture/image-20221204164227026.png)
 
 #### 抽象类和接口的主要区别（笔试题）
 
