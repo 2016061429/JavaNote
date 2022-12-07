@@ -69,7 +69,7 @@ public class Person {
 
 ### 成员变量初始值
 
-![Image text](https://github.com/2016061429/JavaNote/tree/main/JavaSE/picture/image-20221202202443291.png)
+![Image text](https://github.com/2016061429/JavaNote/blob/main/JavaSE/picture/image-20221202202443291.png)
 
 
 ### 成员方法
