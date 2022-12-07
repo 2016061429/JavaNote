@@ -69,7 +69,7 @@ public class Person {
 
 ### 成员变量初始值
 
-![image-20221202202443291](https://github.com/2016061429/JavaNote/tree/main/JavaSE/picture/image-20221202202443291.png)
+![image-20221202202443291]((https://github.com/2016061429/JavaNote/tree/main/JavaSE/picture/)image-20221202202443291.png)
 
 
 ### 成员方法
@@ -484,7 +484,7 @@ public class DogTest {
 
 #### 常用的访问控制符 
 
-![image-20221204032039671](picture\image-20221204032039671.png)
+![image-20221204032039671]([picture\](https://github.com/2016061429/JavaNote/tree/main/JavaSE/picture/)image-20221204032039671.png)
 
 #### 注意事项
 
