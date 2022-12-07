@@ -484,7 +484,7 @@ public class DogTest {
 
 #### 常用的访问控制符 
 
-![image-20221204032039671]([picture\](https://github.com/2016061429/JavaNote/tree/main/JavaSE/picture/)image-20221204032039671.png)
+![image-20221204032039671](https://github.com/2016061429/JavaNote/blob/main/JavaSE/picture/image-20221204032039671.png)
 
 #### 注意事项
 
